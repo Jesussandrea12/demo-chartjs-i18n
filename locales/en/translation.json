@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "brand": "Brand",
+    "home": "Home",
+    "languages": "Languages"
+  },
+  "form": {
+    "state": "State",
+    "start": "Start",
+    "select": "Select",
+    "modal": "Modal",
+    "number01": "Number 01",
+    "number02": "Number 02"
+  },
+  "button": {
+    "primary": "Primary",
+    "secondary": "Secondary"
+  }
+}

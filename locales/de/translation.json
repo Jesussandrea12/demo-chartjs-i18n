@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "brand": "Marke",
+    "home": "Zuhause",
+    "languages": "Sprachen"
+  },
+  "form": {
+    "state": "Zustand",
+    "start": "Anfang",
+    "select": "Wählen",
+    "modal": "Modal",
+    "number01": "Nummer 01",
+    "number02": "Nummer 02"
+  },
+  "button": {
+    "primary": "Primär",
+    "secondary": "Sekundär"
+  }
+}

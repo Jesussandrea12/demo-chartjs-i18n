@@ -1,0 +1,53 @@
+.jumbotron {
+  padding: 1em;
+  margin: 1em;
+}
+
+.align-center {
+  justify-content: center;
+}
+
+.align-around {
+  justify-content: space-around;
+}
+
+.box-border {
+  border: 1px solid rgba(47, 126, 219, 0.2);
+  border-radius: 3px;
+}
+
+.button-group {
+  margin: 1em;
+  display: flex;
+}
+
+.button-group > * {
+  margin: .3em;
+}
+
+.form-group.fd-c {
+  flex-direction: column;
+}
+
+/* padding utilities */
+@media screen and (min-width: 1024px) {
+  .mr-md-2 {
+    margin-right: .5em;
+  }
+  .ml-md-2 {
+    margin-left: .5em;
+  }
+}
+@media screen and (min-width: 576px) and (max-width: 1024px) {
+  .mr-md-2 {
+    margin-top: .5em;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .button-group {
+    width: 100%;
+    margin: .3em 0;
+    flex-direction: column;
+  }
+}
