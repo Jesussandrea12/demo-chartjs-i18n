@@ -240,6 +240,7 @@ function chartGerman() {
           }
         },
         // datos para la grafica
+        // creamos un array de objetos para varias lineas
         series: [{
           name: 'Installation',
           data: [43934, 52503, 57177, 69658, 97031, 119931, 137133, 154175]
